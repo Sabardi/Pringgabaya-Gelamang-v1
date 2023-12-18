@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/bicarak1/public_html/
+    - /bin/cp -R pringgabayagelamang $DEPLOYPATH
