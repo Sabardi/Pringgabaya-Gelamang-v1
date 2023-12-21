@@ -7,6 +7,10 @@ module.exports = {
       padding:'16px',
     },
     extend: {
+      backgroundImage: {
+        'hero-pattern': "url('pringgabayagelamang/asset/img/gelamang logo.png')",
+        'footer-texture': "url('/img/footer-texture.png')",
+      },
       colors:{
         primary: '#14b8a6',
         secondary: '#64748b',
